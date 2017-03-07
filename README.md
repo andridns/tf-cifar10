@@ -14,10 +14,12 @@ To open the main code, simply open [`tf-cifar10.ipynb`](https://github.com/adsas
 
 This project requires **Python 3** and the following Python libraries installed:
 
-* [Scikit-learn](http://scikit-learn.org/stable/)
+* [TensorFlow](https://www.tensorflow.org/get_started/get_started)
 * [NumPy](http://www.numpy.org/)
-* [Pandas](http://pandas.pydata.org/)
-* [Bokeh](http://bokeh.pydata.org/en/latest/) and [matplotlib](http://matplotlib.org/) for data visualization
+* [tqdm](https://pypi.python.org/pypi/tqdm) - Progress Meter
+* [pickle](https://docs.python.org/3/library/pickle.html)
+* [helper](https://pypi.python.org/pypi/helper)
+
 
 
 
