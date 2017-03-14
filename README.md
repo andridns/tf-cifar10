@@ -27,14 +27,19 @@ horse
 ship
 truck
 
-![title](img/cnn2.png)
-
 ## Convolutional Neural Network Architecture
-
-We are building a convolutional, max pooling, dropout, and fully connected layers. At the end, we get to see our neural network's predictions on the sample images.
 
 ![title](img/cnn1.png)
 
+This code builds combination of convolutional neural network, max pooling, dropout, and fully connected layers.  At the end, there will be a test on the neural network's predictions on sample images.
+
+![title](img/cnn2.png)
+
+## Result
+
+The final accuracy is about 67%, which is much better than pure guessing (pure guessing on CIFAR-10 dataset will stochastically yield 10% accuracy).
+
+![title](img/result.png)
 
 ## Dependencies
 
