@@ -1,6 +1,6 @@
 # tf-CIFAR10
 
-A Convolutional Neural Network to classify CIFAR-10 image dataset using TensorFlow
+A Convolutional Neural Network to classify CIFAR-10 image dataset using TensorFlow.
 
 ## Files
 
